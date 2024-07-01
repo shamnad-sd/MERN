@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    font-family: Montserrat;
+}
+
+.box{
+    border: 2px solid rgb(231, 216, 216);
+    height: fit-content;
+    width: 417px;
+    margin: 0 auto;
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.img-box{
+    height: 180px;
+    background-image: url('./SAP-basic.jpg');
+    background-size: cover;
+    border-radius: 25px 25px 0px 0px;
+    
+}
+.content-box{
+    border: 0px solid  rgb(231, 216, 216);
+    height: 200px;
+    
+    
+}
+.text{
+    font-family: Montserrat;
+    padding: 9px;
+    margin: 7px;
+    font-size: 29px;
+    color: #495297;
+}
+.content{
+    font-family: Montserrat;
+    font-size: 18px;
+    margin: 7px;
+    color: #212529;
+    font-weight: 700;
+    padding: 9px;
+}
+.span{
+    font-family: Montserrat;
+    font-size: 16px;
+    margin: 7px;
+    color: #808080;
+}
+.btn{
+    margin: 13px;
+    background-color: #495297;
+    border-radius: 10px;
+}
+.btn1{
+    font-weight: 700;
+    font-family: Montserrat;
+    height: 50px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin: 25px;
+    line-height: 50px;
+
+    
+
+    
+    
+
+}
+
+
+
+
