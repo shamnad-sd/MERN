@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    font-family: "Poppins", sans-serif;
+    padding: 10px;
+    margin: 0px;
+}
+.nav{
+    background-color: rgb(29, 186, 207);
+    height: 2px;
+    padding: 5px;
+}
+.banner{
+    background-color: gainsboro;
+    margin-top: -30px;
+}
+.txt{
+    text-align: left;
+    color: rgb(29, 186, 207);
+    font-size: 30px;
+
+}
+.details{
+    
+}
+.h1{
+    font-size: 20px;
+    color: rgb(90, 12, 12);
+    position: relative;
+}
+.main{
+    color: black;
+    
+}
+.ol{
+    padding: 50px;
+}
+.sqr{
+    background-color: rgb(29, 186, 207);
+    height: -1px;
+    width: 800px;
+    margin-left: 45px;  
+}
+.sqr1{
+    background-color: bisque;
+    margin-right: -10px;
+    margin-left: -10px;
+}
+.btn{
+    position: absolute;
+    border-radius: 5px;
+    height: 62px;
+    width: 81px;
+    right: -900px;
+    bottom: 110px;
+
+}
+.top{
+    position: absolute;
+    background-color: yellow;
+    /* width: 28px; */
+    margin-right: 10px;
+    /* height: 20px; */
+    text-align: center;
+    right: 20px;
+    
+    
+}
+.sale{
+    
+}
+.p{
+    font-size: 20px;
+}
+.box{
+    
+    border-top: rgb(29, 186, 207) solid;
+    border-bottom: rgb(29, 186, 207) solid;
+    background-color: rgb(190, 184, 184);
+    width: 500px;
+    height: fit-content;
+    margin-left: 0;
+    position: relative;
+
+}
+.head{
+    text-align: center;
+
+}
+.post{
+    display: flex;
+    margin: 0;
+  
+}
+.img1{
+    background-image: url('./the-earth.jpg');
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    background-size: cover;
+
+
+}
+.img2{
+    background-image: url('./free-images.jpg');
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    background-size: cover;
+
+
+}
+.img3{
+    background-image: url('./pexels-bess-hamiti-83687-35537.jpg');
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    background-size: cover;
+
+
+}
+.author{
+    margin-left: 20px;
+}
+.footer{
+    margin: -4px;
+    
+}
+
+
+
+
+
